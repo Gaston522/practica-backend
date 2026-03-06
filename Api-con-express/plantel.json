@@ -1,0 +1,47 @@
+{
+  "equipo": "Club Atlético Boca Juniors",
+  "temporada": "2026",
+  "entrenador": "Claudio Úbeda",
+  "plantel": {
+    "arqueros": [
+      { "dorsal": 1, "nombre": "Agustín Marchesín", "nacionalidad": "Argentina" },
+      { "dorsal": 12, "nombre": "Leandro Brey", "nacionalidad": "Argentina" },
+      { "dorsal": 13, "nombre": "Javier García", "nacionalidad": "Argentina" }
+    ],
+    "defensores": [
+      { "dorsal": 2, "nombre": "Lautaro Di Lollo", "posicion": "Central" },
+      { "dorsal": 4, "nombre": "Nicolás Figal", "posicion": "Central" },
+      { "dorsal": 26, "nombre": "Marco Pellegrino", "posicion": "Central" },
+      { "dorsal": 32, "nombre": "Ayrton Costa", "posicion": "Central" },
+      { "dorsal": 3, "nombre": "Lautaro Blanco", "posicion": "Lateral Izquierdo" },
+      { "dorsal": 27, "nombre": "Malcom Braida", "posicion": "Lateral Izquierdo" },
+      { "dorsal": 17, "nombre": "Lucas Blondel", "posicion": "Lateral Derecho" },
+      { "dorsal": 23, "nombre": "Marcelo Weigandt", "posicion": "Lateral Derecho" },
+      { "dorsal": 24, "nombre": "Juan Barinaga", "posicion": "Lateral Derecho" }
+    ],
+    "mediocampistas": [
+      { "dorsal": 5, "nombre": "Leandro Paredes", "posicion": "Pivote" },
+      { "dorsal": 25, "nombre": "Santiago Ascacíbar", "posicion": "Pivote" },
+      { "dorsal": 18, "nombre": "Milton Delgado", "posicion": "Pivote" },
+      { "dorsal": 21, "nombre": "Ander Herrera", "posicion": "Mediocentro" },
+      { "dorsal": 15, "nombre": "Williams Alarcón", "posicion": "Mediocentro" },
+      { "dorsal": 30, "nombre": "Tomás Belmonte", "posicion": "Mediocentro" },
+      { "dorsal": 22, "nombre": "Kevin Zenón", "posicion": "Interior/Extremo" },
+      { "dorsal": 19, "nombre": "Agustín Martegani", "posicion": "Enganche" },
+      { "dorsal": 8, "nombre": "Carlos Palacios", "posicion": "Enganche" },
+      { "dorsal": 36, "nombre": "Tomás Aranda", "posicion": "Mediapunta" }
+    ],
+    "delanteros": [
+      { "dorsal": 10, "nombre": "Edinson Cavani", "posicion": "Centrodelantero" },
+      { "dorsal": 16, "nombre": "Miguel Merentiel", "posicion": "Centrodelantero" },
+      { "dorsal": 28, "nombre": "Adam Bareiro", "posicion": "Centrodelantero" },
+      { "dorsal": 9, "nombre": "Milton Giménez", "posicion": "Centrodelantero" },
+      { "dorsal": 7, "nombre": "Exequiel Zeballos", "posicion": "Extremo" },
+      { "dorsal": 20, "nombre": "Alan Velasco", "posicion": "Extremo" },
+      { "dorsal": 29, "nombre": "Ángel Romero", "posicion": "Extremo" },
+      { "dorsal": 11, "nombre": "Lucas Janson", "posicion": "Extremo" },
+      { "dorsal": 41, "nombre": "Iker Zufiaurre", "posicion": "Extremo" }
+    ]
+  }
+}
+

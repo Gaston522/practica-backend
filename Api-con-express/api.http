@@ -1,0 +1,12 @@
+GET http://localhost:1234/plantel
+
+###
+
+POST http://localhost:1234/agregar
+Content-Type: application/json
+
+{
+    "dorsal": 88,
+    "nombre": "Gaston Coyant",
+    "posicion": "Mediapunta"
+}
