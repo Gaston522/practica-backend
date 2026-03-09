@@ -2,6 +2,9 @@ GET http://localhost:1234/plantel
 
 ###
 
+GET http://localhost:1234/plantel?dorsal=2
+
+###
 POST http://localhost:1234/agregar
 Content-Type: application/json
 
